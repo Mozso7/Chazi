@@ -7,6 +7,7 @@ az ételt.
 
 Ha a kockákhoz vagy a pálya széléhez, vagy a "labirintus" falának nekimész, akkor a
 death counter-ünk inkrementál.
-
 A W A S D billentyűkkel mozgunk, a zöld zászlóval indítjuk el/újra a játékot, full
 screenben ajánlott.
+
+A többi feladat amit felraktam, azokat előző órán jegyzeteltem magamnak.

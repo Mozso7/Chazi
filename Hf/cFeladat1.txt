@@ -1,0 +1,19 @@
+#include <stdio.h>
+//páros vagy páratlan-e a szám, feladat, bekérésből jön a szám
+
+void parosE(int n){
+    if(n%2==0){
+        printf("A szám amit megadott páros.\n");
+    }else{
+        printf("A szám amit megadott páratlan.\n");
+    }
+    
+}
+
+int main() {
+    int bekeres;
+    printf("Adjon meg egy számot: ");
+    scanf("%d", &bekeres);
+    parosE(bekeres);
+    return 0;
+}

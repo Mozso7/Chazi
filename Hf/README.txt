@@ -10,4 +10,5 @@ death counter-ünk inkrementál.
 A W A S D billentyűkkel mozgunk, a zöld zászlóval indítjuk el/újra a játékot, full
 screenben ajánlott.
 
-A többi feladat amit felraktam, azokat előző órán jegyzeteltem magamnak.
+A többi feladat amit felraktam, azokat előző órán jegyzeteltem magamnak, és úgy
+értettem, hogy azok is kellenek "hivatalos" házi feladatként.
